@@ -1,4 +1,3 @@
-
 # 📈 Resumo de Insights Obtidos com IA
 
 A partir da análise dos dados de vendas fornecidos e da aplicação dos prompts com inteligência artificial, foram identificados os seguintes insights estratégicos:
@@ -22,6 +21,10 @@ Esses produtos também contribuíram significativamente para o faturamento total
 - **Shopee** apresentou o maior volume de vendas entre as plataformas, com crescimento consistente mês a mês.
 - **AliExpress** mostrou melhor ticket médio por venda.
 - **Etsy** teve menor volume, mas boa taxa de conversão em vendas de nicho.
+
+![Receita total por plataforma](../imagens/receita_total_por_plataforma_meganium.png)
+
+> *O gráfico acima mostra que, em termos de receita total, o destaque vai para o Etsy, seguido por Shopee e AliExpress. Essa informação é essencial para priorização de estratégias de investimento e marketing por canal.*
 
 ---
 
@@ -49,4 +52,3 @@ Esses produtos também contribuíram significativamente para o faturamento total
 ---
 
 Esses insights foram gerados com apoio de IA utilizando prompts bem estruturados e podem servir de base para decisões de marketing, estoque e precificação.
-
